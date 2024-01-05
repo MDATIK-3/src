@@ -4,7 +4,7 @@ public class Coins {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
-//        System.out.printf("%d ", n);
+
 
         while (n > 0) {
             if ( n % 2 == 0 ) {
